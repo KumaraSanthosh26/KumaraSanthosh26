@@ -1,5 +1,5 @@
 # 💫 About Me:
-  🌱 I’m currently  Studying MCA in Sona College Of Technology.<br>   Fundamental knowledge on the programming languages : TESTING,JAVA,HTML,CSS,SQL,PHP,JS, DATABASE. <br>   Eager in learning new technologies.
+  🌱 I’m currently  Studying MCA in Sona College Of Technology.<br> 👨🏻‍💻 Fundamental knowledge on the programming languages : TESTING,JAVA,HTML,CSS,SQL,PHP,JS, DATABASE. <br>  💻 Eager in learning new technologies.
   
 💬 Contact me  by E-mail : kumarasanthosh58@gmail.com
 
